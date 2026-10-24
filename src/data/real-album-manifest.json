@@ -1,0 +1,171 @@
+{
+  "album": {
+    "id": "real-01",
+    "slug": "hong-mai-van-pho",
+    "title": "Hồng Mai & Văn Phố",
+    "category": "phong-su-cuoi",
+    "location": "Lễ Vu Quy",
+    "isDemo": false,
+    "featured": true,
+    "coverImage": {
+      "src": "/albums/hong-mai-van-pho/cover.webp",
+      "width": 848,
+      "height": 1264,
+      "alt": "Ảnh bìa album Hồng Mai & Văn Phố — Lễ Vu Quy",
+      "order": 1
+    },
+    "heroImage": {
+      "src": "/albums/hong-mai-van-pho/hero.webp",
+      "width": 1440,
+      "height": 960,
+      "alt": "Toàn cảnh Lễ Vu Quy Hồng Mai & Văn Phố",
+      "order": 1
+    },
+    "images": [
+      {
+        "key": "01-binh-minh-ngay-cuoi",
+        "src": "/albums/hong-mai-van-pho/01-binh-minh-ngay-cuoi.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Ánh bình minh lấp lánh xuyên qua cổng hoa cưới ven đường sớm",
+        "order": 1,
+        "isLandscape": false
+      },
+      {
+        "key": "02-ban-tra-le-gia-tien",
+        "src": "/albums/hong-mai-van-pho/02-ban-tra-le-gia-tien.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Chi tiết bàn tiệc trà gia tiên với hoa lan hồng và chuỗi ngọc trai",
+        "order": 2,
+        "isLandscape": false
+      },
+      {
+        "key": "03-bien-ten-hong-mai-van-pho",
+        "src": "/albums/hong-mai-van-pho/03-bien-ten-hong-mai-van-pho.webp",
+        "width": 1200,
+        "height": 1800,
+        "alt": "Biển tên Lễ Vu Quy Hồng Mai & Văn Phố trang trí hoa tươi",
+        "order": 3,
+        "isLandscape": false
+      },
+      {
+        "key": "04-co-dau-rang-ro-don-ngay-vui",
+        "src": "/albums/hong-mai-van-pho/04-co-dau-rang-ro-don-ngay-vui.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Cô dâu Hồng Mai dịu dàng trong tà áo dài lụa trắng trước giờ làm lễ",
+        "order": 4,
+        "isLandscape": false
+      },
+      {
+        "key": "05-nang-som-ben-cong-hoa",
+        "src": "/albums/hong-mai-van-pho/05-nang-som-ben-cong-hoa.webp",
+        "width": 1600,
+        "height": 1067,
+        "alt": "Cô dâu Hồng Mai đứng bên cổng hoa rực rỡ đón nắng sớm ngày cưới",
+        "order": 5,
+        "isLandscape": true
+      },
+      {
+        "key": "06-cong-hoa-le-vu-quy",
+        "src": "/albums/hong-mai-van-pho/06-cong-hoa-le-vu-quy.webp",
+        "width": 1600,
+        "height": 1067,
+        "alt": "Toàn cảnh cổng hoa Lễ Vu Quy Hồng Mai & Văn Phố",
+        "order": 6,
+        "isLandscape": true
+      },
+      {
+        "key": "07-me-trao-tay-co-dau",
+        "src": "/albums/hong-mai-van-pho/07-me-trao-tay-co-dau.webp",
+        "width": 1600,
+        "height": 1067,
+        "alt": "Khoảnh khắc người mẹ trao tay con gái cho chú rể Văn Phố",
+        "order": 7,
+        "isLandscape": true
+      },
+      {
+        "key": "08-chu-re-chuan-bi-nhan-cuoi",
+        "src": "/albums/hong-mai-van-pho/08-chu-re-chuan-bi-nhan-cuoi.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Chú rể cẩn thận nâng niu và kiểm tra đôi nhẫn cưới thiêng liêng",
+        "order": 8,
+        "isLandscape": false
+      },
+      {
+        "key": "09-khoanh-khac-trao-nhan",
+        "src": "/albums/hong-mai-van-pho/09-khoanh-khac-trao-nhan.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Khoảnh khắc cô dâu chú rể trao nhau chiếc nhẫn trăm năm",
+        "order": 9,
+        "isLandscape": false
+      },
+      {
+        "key": "10-chu-re-hon-tay-co-dau",
+        "src": "/albums/hong-mai-van-pho/10-chu-re-hon-tay-co-dau.webp",
+        "width": 1600,
+        "height": 1066,
+        "alt": "Chú rể cúi hôn tay cô dâu trước sự chứng kiến và chúc phúc của hai bên gia đình",
+        "order": 10,
+        "isLandscape": true
+      },
+      {
+        "key": "11-nam-chat-tay-nhau",
+        "src": "/albums/hong-mai-van-pho/11-nam-chat-tay-nhau.webp",
+        "width": 1200,
+        "height": 1785,
+        "alt": "Bàn tay cô dâu chú rể đan chặt bên bó hoa cưới hồng pastel",
+        "order": 11,
+        "isLandscape": false
+      },
+      {
+        "key": "12-tieng-cuoi-ngay-vu-quy",
+        "src": "/albums/hong-mai-van-pho/12-tieng-cuoi-ngay-vu-quy.webp",
+        "width": 1600,
+        "height": 1067,
+        "alt": "Tiếng cười rạng rỡ của cả gia đình trong ngày vui vu quy",
+        "order": 12,
+        "isLandscape": true
+      },
+      {
+        "key": "13-co-dau-va-me",
+        "src": "/albums/hong-mai-van-pho/13-co-dau-va-me.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Nụ cười ấm áp và cái ôm hạnh phúc của cô dâu bên người mẹ kính yêu",
+        "order": 13,
+        "isLandscape": false
+      },
+      {
+        "key": "14-giot-nuoc-mat-hanh-phuc",
+        "src": "/albums/hong-mai-van-pho/14-giot-nuoc-mat-hanh-phuc.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Giọt nước mắt xúc động nghẹn ngào của đấng sinh thành trong giờ phút tiễn con",
+        "order": 14,
+        "isLandscape": false
+      },
+      {
+        "key": "15-nu-hon-ngot-ngao",
+        "src": "/albums/hong-mai-van-pho/15-nu-hon-ngot-ngao.webp",
+        "width": 1200,
+        "height": 1799,
+        "alt": "Nụ hôn má ngọt ngào và ánh mắt hạnh phúc của cặp đôi mới cưới",
+        "order": 15,
+        "isLandscape": false
+      },
+      {
+        "key": "16-niem-vui-tron-ven",
+        "src": "/albums/hong-mai-van-pho/16-niem-vui-tron-ven.webp",
+        "width": 1600,
+        "height": 1067,
+        "alt": "Niềm vui hân hoan rạng rỡ của Hồng Mai & Văn Phố trong ngày thành hôn",
+        "order": 16,
+        "isLandscape": true
+      }
+    ]
+  }
+}

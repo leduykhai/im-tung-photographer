@@ -1,0 +1,352 @@
+{
+  "thanh-truc-anh-khoa/cover": {
+    "src": "/albums/thanh-truc-anh-khoa/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "thanh-truc-anh-khoa/hero": {
+    "src": "/albums/thanh-truc-anh-khoa/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "thanh-truc-anh-khoa/scenery": {
+    "src": "/albums/thanh-truc-anh-khoa/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "thanh-truc-anh-khoa/close": {
+    "src": "/albums/thanh-truc-anh-khoa/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "thanh-truc-anh-khoa/detail": {
+    "src": "/albums/thanh-truc-anh-khoa/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "yen-nhi-trong-nghia/cover": {
+    "src": "/albums/yen-nhi-trong-nghia/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "yen-nhi-trong-nghia/hero": {
+    "src": "/albums/yen-nhi-trong-nghia/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "yen-nhi-trong-nghia/scenery": {
+    "src": "/albums/yen-nhi-trong-nghia/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "yen-nhi-trong-nghia/close": {
+    "src": "/albums/yen-nhi-trong-nghia/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "yen-nhi-trong-nghia/detail": {
+    "src": "/albums/yen-nhi-trong-nghia/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "cam-tu-dinh-phong/cover": {
+    "src": "/albums/cam-tu-dinh-phong/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "cam-tu-dinh-phong/hero": {
+    "src": "/albums/cam-tu-dinh-phong/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "cam-tu-dinh-phong/scenery": {
+    "src": "/albums/cam-tu-dinh-phong/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "cam-tu-dinh-phong/close": {
+    "src": "/albums/cam-tu-dinh-phong/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "cam-tu-dinh-phong/detail": {
+    "src": "/albums/cam-tu-dinh-phong/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "gia-han-minh-quan/cover": {
+    "src": "/albums/gia-han-minh-quan/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "gia-han-minh-quan/hero": {
+    "src": "/albums/gia-han-minh-quan/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "gia-han-minh-quan/scenery": {
+    "src": "/albums/gia-han-minh-quan/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "gia-han-minh-quan/close": {
+    "src": "/albums/gia-han-minh-quan/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "gia-han-minh-quan/detail": {
+    "src": "/albums/gia-han-minh-quan/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "ngoc-lan-hoang-nam/cover": {
+    "src": "/albums/ngoc-lan-hoang-nam/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "ngoc-lan-hoang-nam/hero": {
+    "src": "/albums/ngoc-lan-hoang-nam/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "ngoc-lan-hoang-nam/scenery": {
+    "src": "/albums/ngoc-lan-hoang-nam/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "ngoc-lan-hoang-nam/close": {
+    "src": "/albums/ngoc-lan-hoang-nam/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "ngoc-lan-hoang-nam/detail": {
+    "src": "/albums/ngoc-lan-hoang-nam/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "thu-ha-duc-anh/cover": {
+    "src": "/albums/thu-ha-duc-anh/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "thu-ha-duc-anh/hero": {
+    "src": "/albums/thu-ha-duc-anh/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "thu-ha-duc-anh/scenery": {
+    "src": "/albums/thu-ha-duc-anh/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "thu-ha-duc-anh/close": {
+    "src": "/albums/thu-ha-duc-anh/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "thu-ha-duc-anh/detail": {
+    "src": "/albums/thu-ha-duc-anh/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "khanh-linh-tuan-kiet/cover": {
+    "src": "/albums/khanh-linh-tuan-kiet/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "khanh-linh-tuan-kiet/hero": {
+    "src": "/albums/khanh-linh-tuan-kiet/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "khanh-linh-tuan-kiet/scenery": {
+    "src": "/albums/khanh-linh-tuan-kiet/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "khanh-linh-tuan-kiet/close": {
+    "src": "/albums/khanh-linh-tuan-kiet/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "khanh-linh-tuan-kiet/detail": {
+    "src": "/albums/khanh-linh-tuan-kiet/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "bao-ngoc-quoc-viet/cover": {
+    "src": "/albums/bao-ngoc-quoc-viet/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "bao-ngoc-quoc-viet/hero": {
+    "src": "/albums/bao-ngoc-quoc-viet/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "bao-ngoc-quoc-viet/scenery": {
+    "src": "/albums/bao-ngoc-quoc-viet/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "bao-ngoc-quoc-viet/close": {
+    "src": "/albums/bao-ngoc-quoc-viet/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "bao-ngoc-quoc-viet/detail": {
+    "src": "/albums/bao-ngoc-quoc-viet/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "phuong-thao-viet-hoang/cover": {
+    "src": "/albums/phuong-thao-viet-hoang/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "phuong-thao-viet-hoang/hero": {
+    "src": "/albums/phuong-thao-viet-hoang/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "phuong-thao-viet-hoang/scenery": {
+    "src": "/albums/phuong-thao-viet-hoang/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "phuong-thao-viet-hoang/close": {
+    "src": "/albums/phuong-thao-viet-hoang/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "phuong-thao-viet-hoang/detail": {
+    "src": "/albums/phuong-thao-viet-hoang/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "mai-anh-thanh-dat/cover": {
+    "src": "/albums/mai-anh-thanh-dat/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "mai-anh-thanh-dat/hero": {
+    "src": "/albums/mai-anh-thanh-dat/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "mai-anh-thanh-dat/scenery": {
+    "src": "/albums/mai-anh-thanh-dat/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "mai-anh-thanh-dat/close": {
+    "src": "/albums/mai-anh-thanh-dat/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "mai-anh-thanh-dat/detail": {
+    "src": "/albums/mai-anh-thanh-dat/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "dieu-linh-hai-dang/cover": {
+    "src": "/albums/dieu-linh-hai-dang/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "dieu-linh-hai-dang/hero": {
+    "src": "/albums/dieu-linh-hai-dang/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "dieu-linh-hai-dang/scenery": {
+    "src": "/albums/dieu-linh-hai-dang/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "dieu-linh-hai-dang/close": {
+    "src": "/albums/dieu-linh-hai-dang/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "dieu-linh-hai-dang/detail": {
+    "src": "/albums/dieu-linh-hai-dang/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "hong-nhung-gia-bao/cover": {
+    "src": "/albums/hong-nhung-gia-bao/cover.webp",
+    "width": 848,
+    "height": 1264
+  },
+  "hong-nhung-gia-bao/hero": {
+    "src": "/albums/hong-nhung-gia-bao/hero.webp",
+    "width": 848,
+    "height": 565
+  },
+  "hong-nhung-gia-bao/scenery": {
+    "src": "/albums/hong-nhung-gia-bao/scenery.webp",
+    "width": 848,
+    "height": 565
+  },
+  "hong-nhung-gia-bao/close": {
+    "src": "/albums/hong-nhung-gia-bao/close.webp",
+    "width": 636,
+    "height": 848
+  },
+  "hong-nhung-gia-bao/detail": {
+    "src": "/albums/hong-nhung-gia-bao/detail.webp",
+    "width": 848,
+    "height": 565
+  },
+  "gia-han-minh-quan/wide": {
+    "src": "/albums/gia-han-minh-quan/wide.webp",
+    "width": 1376,
+    "height": 768
+  },
+  "gia-han-minh-quan/valley": {
+    "src": "/albums/gia-han-minh-quan/valley.webp",
+    "width": 900,
+    "height": 600
+  },
+  "gia-han-minh-quan/nearer": {
+    "src": "/albums/gia-han-minh-quan/nearer.webp",
+    "width": 676,
+    "height": 451
+  },
+  "ngoc-lan-hoang-nam/couple": {
+    "src": "/albums/ngoc-lan-hoang-nam/couple.webp",
+    "width": 720,
+    "height": 480
+  },
+  "ngoc-lan-hoang-nam/bride": {
+    "src": "/albums/ngoc-lan-hoang-nam/bride.webp",
+    "width": 450,
+    "height": 600
+  },
+  "ngoc-lan-hoang-nam/groom": {
+    "src": "/albums/ngoc-lan-hoang-nam/groom.webp",
+    "width": 368,
+    "height": 490
+  },
+  "ngoc-lan-hoang-nam/altar": {
+    "src": "/albums/ngoc-lan-hoang-nam/altar.webp",
+    "width": 388,
+    "height": 517
+  },
+  "ngoc-lan-hoang-nam/tray": {
+    "src": "/albums/ngoc-lan-hoang-nam/tray.webp",
+    "width": 598,
+    "height": 399
+  },
+  "home/hero": {
+    "src": "/hero/home.webp",
+    "width": 1376,
+    "height": 768
+  },
+  "home/about": {
+    "src": "/about/details.webp",
+    "width": 600,
+    "height": 600
+  }
+}
